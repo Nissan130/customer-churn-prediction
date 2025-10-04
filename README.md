@@ -24,12 +24,11 @@ customer-churn-prediction/
 │ ├── 02_modeling.ipynb # Model training and evaluation
 │
 ├── reports/
-│ ├── figures/
-│ │ └── all figures
+│ ├── figures/ # All visualization figures
+│ └── boxplot.png
 │
-└── README.md # Project documentation
-|___requirements.txt  # all libraries and modules for this project
-|
+├── README.md # Project documentation
+├── requirements.txt # All libraries and modules for this project
 
 
 
