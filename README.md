@@ -8,7 +8,7 @@ By predicting churn in advance, businesses can take proactive measures to **reta
 
 ## Project Structure
 
-customer-churn-prediction/
+``` customer-churn-prediction/
 │
 ├── data/
 │ ├── customer_churn_raw.csv # Original, immutable data
@@ -30,10 +30,7 @@ customer-churn-prediction/
 ├── README.md # Project documentation
 ├── requirements.txt # All libraries and modules for this project
 
-
-
-
----
+```
 
 ## Tools & Libraries
 - Python 3.x  
